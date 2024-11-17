@@ -1,1 +1,0 @@
-// WAP to print Pascal’s Triangle.
