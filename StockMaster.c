@@ -143,12 +143,12 @@ int main() {
         printf("\n");
         printf("Welcome to StockMaster\n");
         printf("\n");
-        printf("1. Add Item\n");
-        printf("2. Display Items\n");
-        printf("3. Search Item\n");
-        printf("4. Delete Item\n");
-        printf("5. Update Item\n");
-        printf("6. Exit\n");
+        printf("1. Stock Entry\n");
+        printf("2. View Product\n");
+        printf("3. Find Product\n");
+        printf("4. Delete Stock\n");
+        printf("5. Update Stock\n");
+        printf("6. Exit The Program\n");
         printf("\n");
         printf("Enter your choice (option number): ");
         scanf("%d", &choice);
